@@ -44,7 +44,8 @@ button {
 }
 
 .chat-display {
-    background-color: white;
+    background-image: url('https://images.alphacoders.com/567/567699.jpg');
+    background-size: cover;
     list-style-type: none;
     width: 100%;
     max-width: 600px;
